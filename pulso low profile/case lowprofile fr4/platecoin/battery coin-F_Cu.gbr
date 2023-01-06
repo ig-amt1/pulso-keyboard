@@ -1,0 +1,51 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,(6.0.9)*%
+%TF.CreationDate,2022-12-28T00:08:04-03:00*%
+%TF.ProjectId,battery coin,62617474-6572-4792-9063-6f696e2e6b69,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Copper,L1,Top*%
+%TF.FilePolarity,Positive*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW (6.0.9)) date 2022-12-28 00:08:04*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,ComponentPad*%
+%ADD10C,3.500000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+%TO.P,,*%
+%TO.N,*%
+X159210034Y-73577854D03*
+%TD*%
+%TO.P,,*%
+%TO.N,*%
+X104744033Y-67726850D03*
+%TD*%
+%TO.P,,*%
+%TO.N,*%
+X105211035Y-102078350D03*
+%TD*%
+%TO.P,,*%
+%TO.N,*%
+X173492190Y-113188283D03*
+%TD*%
+%TO.P,Ref\u002A\u002A,*%
+%TO.N,*%
+X105211035Y-99578350D03*
+%TD*%
+%TO.P,Ref\u002A\u002A,*%
+%TO.N,*%
+X191741075Y-116319109D03*
+%TD*%
+%TO.P,Ref\u002A\u002A,*%
+%TO.N,*%
+X195636046Y-66420875D03*
+%TD*%
+%TO.P,Ref\u002A\u002A,*%
+%TO.N,*%
+X180854724Y-66421332D03*
+%TD*%
+M02*
