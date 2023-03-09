@@ -34,9 +34,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 3.5,
-          "height": 3.8,
-          "width": 3.8
+          "drill": 0.0,
+          "height": 5.08,
+          "width": 1.27
         },
         "silk_line_width": 0.12,
         "silk_text_italic": false,
@@ -183,7 +183,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "pulso novo.kicad_pro",
+    "filename": "totem swoop.kicad_pro",
     "version": 1
   },
   "net_settings": {
