@@ -451,7 +451,7 @@
 
   (footprint "LOGO" (layer "F.Cu")
     (tstamp ad7112cf-e11d-46aa-838d-acac741baf39)
-    (at 164.13 66.79 -90)
+    (at 229.747352 114.046487 -90)
     (attr board_only exclude_from_pos_files exclude_from_bom)
     (fp_text reference "" (at 0 0 90) (layer "Edge.Cuts")
         (effects (font (size 1.5 1.5) (thickness 0.3)))
@@ -613,7 +613,7 @@
 
   (footprint "LOGO" (layer "F.Cu")
     (tstamp c66f9ae6-df91-40be-b0e2-76b8c63bdedb)
-    (at 102.802815 87.525114)
+    (at 222.372815 67.595114)
     (attr board_only exclude_from_pos_files exclude_from_bom)
     (fp_text reference "G***" (at 0 0) (layer "F.SilkS")
         (effects (font (size 1.5 1.5) (thickness 0.3)))
